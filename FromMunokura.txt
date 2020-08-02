@@ -1,0 +1,67 @@
+▼このファイルについて
+いのじゅん氏が配布しているmidiファイルにループ処理を施し、oggに変換したものをパッケージしました。
+
+いのじゅん氏はゲーム開発会社へ音源を提供していて、下記が代表作とのことです。
+
+【Google Play】
+https://play.google.com/store/apps/details?id=jp.mapp.yushas3
+
+【App Store】
+https://apps.apple.com/jp/app/ガイラルディア神話3/id1434795639
+
+
+▼オリジナル配布元
+http://midisozai.inojun.net/
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+
+▼表示クレジット
+編集: fungamemake.com (著作者:いのじゅん)
+
+
+▼ファイル名と曲名
+基本的にフォルダで分けてありますが、ファイル名の後ろに'_l'がついているものはループ処理されています。
+
+BGM(ループ有):32
+BGM(ループ無):1
+SE:15
+
+BGMの一覧
+ファイル名	曲名
+Jsmidi_2VoiceDemo_l	2声による作曲例デモ
+Jsmidi_airship1_l	airship1
+Jsmidi_battle2_l	battle2
+Jsmidi_battle3_l	battle3
+Jsmidi_battle4_l	battle4
+Jsmidi_battle5_l	battle5
+Jsmidi_castle1_l	castle1
+Jsmidi_castle3_l	castle3
+Jsmidi_castle4_l	castle4
+Jsmidi_dungeon1_l	dungeon1
+Jsmidi_dungeon2_l	dungeon2
+Jsmidi_dungeon3_l	dungeon3
+Jsmidi_dungeon4_l	dungeon4
+Jsmidi_dungeon5_l	dungeon5
+Jsmidi_dungeon6_l	dungeon6
+Jsmidi_event2_l	event2
+Jsmidi_field1_l	field1
+Jsmidi_otherworks2_l	otherworks2
+Jsmidi_otherworks3_l	otherworks3
+Jsmidi_overture1_l	Overture
+Jsmidi_scene1_l	scene1
+Jsmidi_scene2_l	scene2
+Jsmidi_scene3_l	scene3
+Jsmidi_scene4_l	scene4
+Jsmidi_ship1_l	ship1
+Jsmidi_ship1IT_l	ship1IT
+Jsmidi_town1_l	town1
+Jsmidi_town2_l	town2
+Jsmidi_town3_l	town3
+Jsmidi_town4_l	town4
+Jsmidi_TriumphalMarchForMidi_l	MIDI音源のための序奏と凱旋行進曲
+Jsmidi-event2L_l	event2L
+Jsmidi_otherworks4	the ending parade
